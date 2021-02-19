@@ -1,6 +1,6 @@
 # Hola!, Soy Luis Hernandez 👋
 
-Soy desarrollador fullstack que trabajo de forma freelancer en El Salvador. C.A. Me gusta crear aplicaciones innovadoras que permiten automatizar los procesos en las empresas dandoles ventajas competitivas.
+Soy Licenciado en Ciencias de la Computacion, desarrollador fullstack que trabajo de forma independiente en las empresas de El Salvador, C.A. Me gusta crear aplicaciones innovadoras que permiten automatizar los procesos en las empresas dandoles ventajas competitivas.
 
 ## Docente Universitario.
 - [Universidad Gerardo Barrios](http://ugb.edu.sv/)
