@@ -7,7 +7,8 @@ Soy desarrollador fullstack que trabajo de forma freelancer en El Salvador. C.A.
 - Universidad Nacional (https://www.ues.edu.sv/)
 
 ##Puedes encontrarme en:
-- Web personal (http://luishernandez.pw/)
-- Linkedin (https://www.linkedin.com/in/luis-hernandez-ab055533/)
-- Twitter (https://twitter.com/sarco_luis1)
-- Facebook (https://www.facebook.com/Luis-Hernandez-100102741750636)
+- Web personal [luishernandez.pw](http://luishernandez.pw/)
+- [Linkedin](https://www.linkedin.com/in/luis-hernandez-ab055533/)
+- [Twitter](https://twitter.com/sarco_luis1)
+- [Facebook](https://www.facebook.com/Luis-Hernandez-100102741750636)
+- [Instagram](https://www.instagram.com/luishernandez.pw)
