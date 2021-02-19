@@ -2,7 +2,7 @@
 
 Soy desarrollador fullstack que trabajo de forma freelancer en El Salvador. C.A. Me gusta crear aplicaciones innovadoras que permiten automatizar los procesos en las empresas dandoles ventajas competitivas.
 
-##Docente Universitario.
+## Docente Universitario.
 - Universidad Gerardo Barrios (http://ugb.edu.sv/)
 - Universidad Nacional (https://www.ues.edu.sv/)
 
